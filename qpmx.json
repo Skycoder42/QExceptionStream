@@ -1,0 +1,29 @@
+{
+    "dependencies": [
+    ],
+    "license": {
+        "file": "LICENSE",
+        "name": "BSD_3_CLAUSE"
+    },
+    "prcFile": "qexceptionstream.pri",
+    "priFile": "qexceptionstream.pri",
+    "priIncludes": [
+    ],
+    "publishers": {
+        "qpm": {
+            "author": {
+                "email": "skycoder42.de@gmx.de",
+                "name": "Skycoder"
+            },
+            "description": "A wrapper around QDebug that allows you to create exception messages like you would write to QDebug",
+            "name": "de.skycoder42.qexceptionstream",
+            "repository": {
+                "type": "GIT",
+                "url": "https://github.com/Skycoder42/QExceptionStream.git"
+            },
+            "webpage": "https://github.com/Skycoder42/QExceptionStream"
+        }
+    },
+    "qbsFile": "",
+    "source": false
+}
